@@ -5,11 +5,11 @@
     box-sizing: border-box;
 }
 body{
-    background: #001e4d;
+    background: ##c0a7c5;
 
 }
 .app{
-background: #fff;
+background:  rgb(192, 190, 190);
 width: 90%;
 max-width: 600px;
 margin: 100px  auto 0;
